@@ -3,7 +3,7 @@
 * My name is ```Yasinthon Saeteaw```
 
 ### Programing Languages 
-<div style="display: grid; grid-template-rows: repeat(1, minmax(0, 1fr)); background: #fff">
+<div style="display: grid;">
   <img src="https://skillicons.dev/icons?i=lua" alt="lua" title="lua" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=html" alt="html5" title="HTML" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" alt="css3" title="CSS" width="40" height="40"/>
@@ -13,6 +13,8 @@
   <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" width="40" height="40"/>
 </div>
 ### Database
-<img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" title="mongodb" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" title="mysql" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=mariadb" alt="mariadb" title="mariadb" width="40" height="40"/>
+<div style="display: grid;">
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" title="mongodb" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" title="mysql" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mariadb" alt="mariadb" title="mariadb" width="40" height="40"/>
+</div>
