@@ -15,6 +15,6 @@
 ### Database
 <div style="display: grid;">
   <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" title="mongodb" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" title="mysql" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=sql" alt="sql" title="sql" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=mariadb" alt="mariadb" title="mariadb" width="40" height="40"/>
 </div>
