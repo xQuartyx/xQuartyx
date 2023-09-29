@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xQuartyx&show_icons=true&locale=en&theme=tokyonight" alt="xQuartyx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xQuartyx&&theme=tokyonight" alt="xQuartyx" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xQuartyx&theme=tokyonight" alt="xQuartyx" /></p>
