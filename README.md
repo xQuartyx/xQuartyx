@@ -12,7 +12,9 @@
   <img src="https://skillicons.dev/icons?i=py" alt="python" title="Python" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" width="40" height="40"/>
 </div>
+
 ### Database
+
 <div style="display: grid;">
   <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" title="mongodb" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=sql" alt="sql" title="sql" width="40" height="40"/>
