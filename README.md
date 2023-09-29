@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasinthon Saeteaw</h1>
-<h3 align="center">a owner of [Quartyz](https://discord.gg/nFpQXeG38x) roblox Exploit script</h3>
+a owner of [Quartyz](https://discord.gg/nFpQXeG38x) roblox Exploit script
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xQuartyzx&label=Profile%20views&color=0e75b6&style=flat" alt="xQuartyzx" /> </p>
