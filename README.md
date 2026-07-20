@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yasinthon Saeteaw</h1>
-<h3 align="center">a owner of Quartyz roblox Exploit script</h3>
+<h1 align="center">Hi 👋, I'm Yasintorn Seatiao</h1>
+<h3 align="center">a owner of Quartyz roblox exploit script</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xQuartyzx&label=Profile%20views&color=0e75b6&style=flat" alt="xQuartyzx" /> </p>
@@ -8,11 +8,9 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 📫 How to reach me **yasinthon03@gmail.com**
+- 📫 How to reach me **quartyzuwu@gmail.com**
 
-- ⚡ Fun fact **I am Friendly**
-
-<h3 align="left">Contact with me:</h3>
+<h3 align="left">Contact:</h3>
 <p align="left">
 <a href="https://www.instagram.com/mixk_ky/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 </p>
