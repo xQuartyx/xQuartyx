@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasintorn Seatiao</h1>
-<h3 align="center">a owner of Quartyz roblox exploit script</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xQuartyzx&label=Profile%20views&color=0e75b6&style=flat" alt="xQuartyzx" /> </p>
-
-- 🔭 I’m currently working on [**Quartyz Hub**](https://quartyz.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xQuartyx&label=Profile%20views&color=0e75b6&style=flat" alt="xQuartyx" /> </p>
 
 - 🌱 I’m currently studying **Computer Engineer** at **Rangsit University**
 
