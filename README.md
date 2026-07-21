@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [**Quartyz Hub**](https://quartyz.com)
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently studying **Computer Engineer** at **Rangsit University**
 
 - 📫 How to reach me **quartyzuwu@gmail.com**
 
