@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasintorn Seatiao</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xQuartyx&label=Profile%20views&color=0e75b6&style=flat" alt="xQuartyx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xQuartyzx&label=Profile%20views&color=0e75b6&style=flat" alt="xQuartyzx" /> </p>
 
 - 🌱 I’m currently studying **Computer Engineer** at **Rangsit University**
 
